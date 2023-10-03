@@ -380,7 +380,7 @@ div.courses span:nth-child(3) {
 .contact_form_container{
 
   position: relative;
-  max-width: 375px;
+  width: 375px;
   height: 779px;
   
   
