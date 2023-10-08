@@ -68,7 +68,7 @@ justify-content: center;
 align-items: center;
 flex-shrink: 0;
 position: relative;
-background-image: url(/assests/Header\ bg@2x.png);
+background-image: url(assests/Header\ bg@2x.png);
 background-repeat:no-repeat;
 background-size: 1440px 735px;
 background-position: center;
@@ -154,7 +154,7 @@ background: #FFF;
 width: 544px;
 height: 448px;
 flex-shrink: 0;
-background-image: url(/assests/Snapshoot\ Portfolio6.png);
+background-image: url(assests/Snapshoottt\ Portfolio.png);
 margin: 24px;
 }
 .box2{
@@ -779,15 +779,12 @@ letter-spacing: 0.51px
  /* mobile version   */
 
  @media screen and (max-width: 415px) {  
-  body{
-   
-    font-family: Poppins;
-      
-       
-     }
 
-     .menu_replacement_desktop{
-        display: none;
+  body{font-family: Poppins;
+       }
+
+.menu_replacement_desktop{
+     display: none;
      }
 
 nav {
@@ -800,14 +797,11 @@ nav {
     flex-shrink: 0;
     margin-top: 30px;
   }
-
-  
-  .logo {
+.logo {
     display: flex;
     padding: 10px 12px;
     align-items: center;
   }
-  
   h1 {
     color: #6070ff;
     font-size: 15px;
@@ -1286,14 +1280,13 @@ nav {
     
   }
   #form_btn{
-  
-    margin-top: 0.1rem;
-    margin-left: 1.9rem;
-    background-color: white;
-    color:#6070FF;
-    padding: 10px 20px;
-    border: none;
-    border-radius: 0.4rem;
+   margin-top: 0.1rem;
+   margin-left: 1.9rem;
+   background-color: white;
+   color:#6070FF;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 0.4rem;
   
   }
   .fotter_section2{
