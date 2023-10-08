@@ -941,14 +941,15 @@
   }
 
   .heading {
-    margin-top: 5px;
     width: 295px;
-    height: 36px;
+    height: 35px;
     color: #172b4d;
     font-size: 32px;
     font-weight: 700;
     line-height: 44px;
     margin-left: 16px;
+    position: relative;
+    bottom: 5px;
   }
 
   .spans {
@@ -964,6 +965,7 @@
     width: auto;
     height: auto;
     position: relative;
+    top: 20px;
     margin-left: -70px;
   }
 
